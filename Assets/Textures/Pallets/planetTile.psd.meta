@@ -1,0 +1,3445 @@
+fileFormatVersion: 2
+guid: 01a118e8ffa404082b583cf42dd6c8d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -991526051807554445
+    second: _iles 1_0
+  - first:
+      213: -890798801935760444
+    second: _iles 1_1
+  - first:
+      213: -111835720916501197
+    second: _iles 1_2
+  - first:
+      213: 7902498546608631849
+    second: _iles 1_3
+  - first:
+      213: -2162600535817397851
+    second: _iles 1_4
+  - first:
+      213: 4999558103358719179
+    second: _iles 1_5
+  - first:
+      213: 3886609621787264106
+    second: _iles 1_6
+  - first:
+      213: 1735164574286785883
+    second: _iles 1_7
+  - first:
+      213: 8722633363598753268
+    second: _iles 1_8
+  - first:
+      213: 118719115846783916
+    second: _iles 1_9
+  - first:
+      213: 2805281802321973858
+    second: _iles 1_10
+  - first:
+      213: -5037776703163493346
+    second: _iles 1_11
+  - first:
+      213: 7506486233734996296
+    second: _iles 1_12
+  - first:
+      213: 4763632296774236602
+    second: _iles 1_13
+  - first:
+      213: -3955673900922590701
+    second: _iles 1_14
+  - first:
+      213: 5832561170820882835
+    second: _iles 1_15
+  - first:
+      213: 137080253678803637
+    second: _iles 1_16
+  - first:
+      213: 5206265968193393527
+    second: _iles 1_17
+  - first:
+      213: 1253020572203918379
+    second: _iles 1_18
+  - first:
+      213: -8763311347704035069
+    second: _iles 1_19
+  - first:
+      213: 1627948009815126094
+    second: _iles 1_20
+  - first:
+      213: 7978525601476336124
+    second: _iles 1_21
+  - first:
+      213: -514057555774691734
+    second: _iles 1_22
+  - first:
+      213: 3364906648802382502
+    second: _iles 1_23
+  - first:
+      213: 2784054006740064605
+    second: _iles 1_24
+  - first:
+      213: -2122030172002922694
+    second: _iles 1_25
+  - first:
+      213: -5140909836682049292
+    second: _iles 1_26
+  - first:
+      213: 6315097411364316023
+    second: _iles 1_27
+  - first:
+      213: 956666067235497058
+    second: _iles 1_28
+  - first:
+      213: -5494503429399107265
+    second: _iles 1_29
+  - first:
+      213: -901414689436137499
+    second: _iles 1_30
+  - first:
+      213: 4334995712363413113
+    second: _iles 1_31
+  - first:
+      213: 6837102078014198900
+    second: _iles 1_32
+  - first:
+      213: -5945450131302165956
+    second: _iles 1_33
+  - first:
+      213: -5726716961769472501
+    second: _iles 1_34
+  - first:
+      213: 1986189087370613337
+    second: _iles 1_35
+  - first:
+      213: 7788003424815400280
+    second: _iles 1_36
+  - first:
+      213: -2872704686764571550
+    second: _iles 1_37
+  - first:
+      213: 5487592336193792867
+    second: _iles 1_38
+  - first:
+      213: -7873466784748156245
+    second: _iles 1_39
+  - first:
+      213: -7550411775022863644
+    second: _iles 1_40
+  - first:
+      213: -7961510629732121322
+    second: _iles 1_41
+  - first:
+      213: -2280030371182941528
+    second: _iles 1_42
+  - first:
+      213: -8111014353637222074
+    second: _iles 1_43
+  - first:
+      213: 6009775693427427414
+    second: _iles 1_44
+  - first:
+      213: 1460399849928364287
+    second: _iles 1_45
+  - first:
+      213: -1211932086413297179
+    second: _iles 1_46
+  - first:
+      213: 7617383255399061840
+    second: _iles 1_47
+  - first:
+      213: 6746929918840223004
+    second: planetTile_0
+  - first:
+      213: -746964983299071997
+    second: planetTile_1
+  - first:
+      213: -5737755787781182594
+    second: planetTile_2
+  - first:
+      213: -6787852191443235224
+    second: planetTile_3
+  - first:
+      213: 2994415359541963796
+    second: planetTile_4
+  - first:
+      213: -5094874522641070655
+    second: planetTile_5
+  - first:
+      213: 4566452686281915408
+    second: planetTile_6
+  - first:
+      213: -2883220368280190836
+    second: planetTile_7
+  - first:
+      213: -3717849074316486513
+    second: planetTile_8
+  - first:
+      213: -8978113231973929420
+    second: planetTile_9
+  - first:
+      213: 6781726704853335030
+    second: planetTile_10
+  - first:
+      213: 5983890484623989710
+    second: planetTile_11
+  - first:
+      213: 141051428794258109
+    second: planetTile_12
+  - first:
+      213: 9130068890069033630
+    second: planetTile_13
+  - first:
+      213: 3985218053634236060
+    second: planetTile_14
+  - first:
+      213: -5641097170189613324
+    second: planetTile_15
+  - first:
+      213: 1098410098913918643
+    second: planetTile_16
+  - first:
+      213: -597500158319913869
+    second: planetTile_17
+  - first:
+      213: 8990562443804548496
+    second: planetTile_18
+  - first:
+      213: 2314730722996379095
+    second: planetTile_19
+  - first:
+      213: -5707612768540127842
+    second: planetTile_20
+  - first:
+      213: -1146177563060526966
+    second: planetTile_21
+  - first:
+      213: -1437484079134379063
+    second: planetTile_22
+  - first:
+      213: -8260350193010723889
+    second: planetTile_23
+  - first:
+      213: -6547834272507706966
+    second: planetTile_24
+  - first:
+      213: -6974856203525686256
+    second: planetTile_25
+  - first:
+      213: -3460407390329964000
+    second: planetTile_26
+  - first:
+      213: -6635651070484422781
+    second: planetTile_27
+  - first:
+      213: -5907899520133943743
+    second: planetTile_28
+  - first:
+      213: 9010564422774076054
+    second: planetTile_29
+  - first:
+      213: -8091391680592117122
+    second: planetTile_30
+  - first:
+      213: 8190385579421118026
+    second: planetTile_31
+  - first:
+      213: 8289173209648203502
+    second: planetTile_32
+  - first:
+      213: -5581399787560655908
+    second: planetTile_33
+  - first:
+      213: -2702029942449483825
+    second: planetTile_34
+  - first:
+      213: -1504257861444745866
+    second: planetTile_35
+  - first:
+      213: -2534292209561082985
+    second: planetTile_36
+  - first:
+      213: -4509150846857748357
+    second: planetTile_37
+  - first:
+      213: 7710843614215066389
+    second: planetTile_38
+  - first:
+      213: -173331535278811908
+    second: planetTile_39
+  - first:
+      213: -6111144707846049025
+    second: planetTile_40
+  - first:
+      213: 502725310746586832
+    second: planetTile_41
+  - first:
+      213: 5606248609595006085
+    second: planetTile_42
+  - first:
+      213: 526525291073414358
+    second: planetTile_43
+  - first:
+      213: -7451457809493811417
+    second: planetTile_44
+  - first:
+      213: 4751849207358586795
+    second: planetTile_45
+  - first:
+      213: -118534187894039543
+    second: planetTile_46
+  - first:
+      213: 3248123679193603578
+    second: planetTile_47
+  - first:
+      213: -387229311535397169
+    second: planetTile_48
+  - first:
+      213: 8237722765326127018
+    second: planetTile_49
+  - first:
+      213: 2391051350728899666
+    second: planetTile_50
+  - first:
+      213: -6346380618426948133
+    second: planetTile_51
+  - first:
+      213: -3661307242194731665
+    second: planetTile_52
+  - first:
+      213: -4491407869619942554
+    second: planetTile_53
+  - first:
+      213: 989593445656841091
+    second: planetTile_54
+  - first:
+      213: 8936111865198302548
+    second: planetTile_55
+  - first:
+      213: 6989147729406760731
+    second: planetTile_56
+  - first:
+      213: 2222668978330085267
+    second: planetTile_57
+  - first:
+      213: 7784890238048793508
+    second: planetTile_58
+  - first:
+      213: 2846391394794406603
+    second: planetTile_59
+  - first:
+      213: 500388952228032345
+    second: planetTile_60
+  - first:
+      213: 5921463614909810660
+    second: planetTile_61
+  - first:
+      213: 5367595537302476708
+    second: planetTile_62
+  - first:
+      213: -9140348685269299642
+    second: planetTile_63
+  - first:
+      213: 7966997222148149383
+    second: planetTile_64
+  - first:
+      213: -1924946602749724420
+    second: planetTile_65
+  - first:
+      213: 5552751216685478531
+    second: planetTile_66
+  - first:
+      213: -5645674606840618029
+    second: planetTile_67
+  - first:
+      213: -8219110827503709154
+    second: planetTile_68
+  - first:
+      213: -8912486101787307953
+    second: planetTile_69
+  - first:
+      213: -5882554873815675041
+    second: planetTile_70
+  - first:
+      213: 4795871516628358744
+    second: planetTile_71
+  - first:
+      213: 3120235160780995571
+    second: planetTile_72
+  - first:
+      213: 8872768292196438575
+    second: planetTile_73
+  - first:
+      213: -5944449251489782819
+    second: planetTile_74
+  - first:
+      213: 6693668224521031204
+    second: planetTile_75
+  - first:
+      213: -2392422839748757762
+    second: planetTile_76
+  - first:
+      213: -5068386021428615227
+    second: planetTile_77
+  - first:
+      213: -7614543537414489665
+    second: planetTile_78
+  - first:
+      213: -3892914611218899041
+    second: planetTile_79
+  - first:
+      213: 5594854572249554744
+    second: planetTile_80
+  - first:
+      213: -8016094373236922820
+    second: planetTile_81
+  - first:
+      213: 8577586060366460182
+    second: planetTile_82
+  - first:
+      213: -3850040989320084339
+    second: planetTile_83
+  - first:
+      213: 1701154680188085334
+    second: planetTile_84
+  - first:
+      213: -4930110117765144008
+    second: planetTile_85
+  - first:
+      213: -2339222693785725587
+    second: planetTile_86
+  - first:
+      213: -7829678468406659641
+    second: planetTile_87
+  - first:
+      213: 2210585837699573056
+    second: planetTile_88
+  - first:
+      213: 6668035116394342828
+    second: planetTile_89
+  - first:
+      213: -3180383174490543705
+    second: planetTile_90
+  - first:
+      213: 1048213184846625016
+    second: planetTile_91
+  - first:
+      213: 489580104303616507
+    second: planetTile_92
+  - first:
+      213: 4318898279737137960
+    second: planetTile_93
+  - first:
+      213: 5180444764038475147
+    second: planetTile_94
+  - first:
+      213: 435501293129777288
+    second: planetTile_95
+  - first:
+      213: 2750017970998545597
+    second: planetTile_96
+  - first:
+      213: -6450433564382749190
+    second: planetTile_97
+  - first:
+      213: 2695079583337162696
+    second: planetTile_98
+  - first:
+      213: -356980202811151207
+    second: planetTile_99
+  - first:
+      213: -6644854201771987355
+    second: planetTile_100
+  - first:
+      213: 1023409777940382946
+    second: planetTile_101
+  - first:
+      213: -8973207022292165519
+    second: planetTile_102
+  - first:
+      213: -6644334681356758100
+    second: planetTile_103
+  - first:
+      213: 992632974526202727
+    second: planetTile_104
+  - first:
+      213: -461637341934264989
+    second: planetTile_105
+  - first:
+      213: 4022284517476120234
+    second: planetTile_106
+  - first:
+      213: 5406574718469673792
+    second: planetTile_107
+  - first:
+      213: -2054965547374692599
+    second: planetTile_108
+  - first:
+      213: -7433106145422890545
+    second: planetTile_109
+  - first:
+      213: 2357847281830427057
+    second: planetTile_110
+  - first:
+      213: -2986305136689806645
+    second: planetTile_111
+  - first:
+      213: -3700213525759962987
+    second: planetTile_112
+  - first:
+      213: -7263247440954201931
+    second: planetTile_113
+  - first:
+      213: -7044408882217269082
+    second: planetTile_114
+  - first:
+      213: 9032359659557031543
+    second: planetTile_115
+  - first:
+      213: 472588108397041778
+    second: planetTile_116
+  - first:
+      213: 8478197534228506634
+    second: planetTile_117
+  - first:
+      213: 1713289013628084947
+    second: planetTile_118
+  - first:
+      213: -2591734454569006472
+    second: planetTile_119
+  - first:
+      213: 9170215799046313219
+    second: planetTile_120
+  - first:
+      213: -6604611384358690431
+    second: planetTile_121
+  - first:
+      213: 3619389805866440090
+    second: planetTile_122
+  - first:
+      213: -1792011745688707691
+    second: planetTile_123
+  - first:
+      213: -5209457550385632357
+    second: planetTile_124
+  - first:
+      213: -7170959200816483662
+    second: planetTile_125
+  - first:
+      213: 6660565901871342614
+    second: planetTile_126
+  - first:
+      213: -8565084459658152777
+    second: planetTile_127
+  - first:
+      213: 7699006081800360218
+    second: planetTile_128
+  - first:
+      213: 8079596745575252427
+    second: planetTile_129
+  - first:
+      213: -5956718743495029742
+    second: planetTile_130
+  - first:
+      213: -7588444404893632862
+    second: planetTile_131
+  - first:
+      213: 2102259335538497431
+    second: planetTile_132
+  - first:
+      213: -2734165603932856362
+    second: planetTile_133
+  - first:
+      213: -6979365884292368539
+    second: planetTile_134
+  - first:
+      213: -2417826707416525564
+    second: planetTile_135
+  - first:
+      213: 2502204175753639078
+    second: planetTile_136
+  - first:
+      213: 7574636195543928735
+    second: planetTile_137
+  - first:
+      213: -4231226842680783821
+    second: planetTile_138
+  - first:
+      213: -505988572939829866
+    second: planetTile_139
+  - first:
+      213: 1831648086064117559
+    second: planetTile_140
+  - first:
+      213: -1503964238835166730
+    second: planetTile_141
+  - first:
+      213: -3865947544849232063
+    second: planetTile_142
+  - first:
+      213: 5139362521924525651
+    second: planetTile_143
+  - first:
+      213: 6973818709466962882
+    second: planetTile_144
+  - first:
+      213: 8211871698254542963
+    second: planetTile_145
+  - first:
+      213: 3922497709814752880
+    second: planetTile_146
+  - first:
+      213: 7311471061199103032
+    second: planetTile_147
+  - first:
+      213: 724535870680342360
+    second: planetTile_148
+  - first:
+      213: -8882570008331774927
+    second: planetTile_149
+  - first:
+      213: -744637307878345705
+    second: planetTile_150
+  - first:
+      213: -6648710566921474010
+    second: planetTile_151
+  - first:
+      213: 3876296965321047046
+    second: planetTile_152
+  - first:
+      213: -845169218677940771
+    second: planetTile_153
+  - first:
+      213: 7170463911784720725
+    second: planetTile_154
+  - first:
+      213: -4436823603707574589
+    second: planetTile_155
+  - first:
+      213: -2766422000039378364
+    second: planetTile_156
+  - first:
+      213: -1093097908968494407
+    second: planetTile_157
+  - first:
+      213: 6162988084836972615
+    second: planetTile_158
+  - first:
+      213: 7563848358237208090
+    second: planetTile_159
+  - first:
+      213: -3724253111315603073
+    second: planetTile_160
+  - first:
+      213: 1566106966657111620
+    second: planetTile_161
+  - first:
+      213: 7412030117503539703
+    second: planetTile_162
+  - first:
+      213: -6442691549423385689
+    second: planetTile_163
+  - first:
+      213: 699997997351757325
+    second: planetTile_164
+  - first:
+      213: 4988359109357893429
+    second: planetTile_165
+  - first:
+      213: 4296896417996714987
+    second: planetTile_166
+  - first:
+      213: 5431960532232175265
+    second: planetTile_167
+  - first:
+      213: -563080996471707305
+    second: planetTile_168
+  - first:
+      213: 2849827654733191901
+    second: planetTile_169
+  - first:
+      213: 5448983499289650940
+    second: planetTile_170
+  - first:
+      213: -4020016013579942661
+    second: planetTile_171
+  - first:
+      213: -4931961177887236823
+    second: planetTile_172
+  - first:
+      213: -2234881822693452999
+    second: planetTile_173
+  - first:
+      213: 2228289482032487119
+    second: planetTile_174
+  - first:
+      213: -2647691100086365714
+    second: planetTile_175
+  - first:
+      213: -2791457270097661126
+    second: planetTile_176
+  - first:
+      213: -7904068559489057779
+    second: planetTile_177
+  - first:
+      213: -1018315620923690122
+    second: planetTile_178
+  - first:
+      213: 6875603940559751557
+    second: planetTile_179
+  - first:
+      213: 4797936964227262187
+    second: planetTile_180
+  - first:
+      213: 6080153348011051761
+    second: planetTile_181
+  - first:
+      213: 7006300549851485748
+    second: planetTile_182
+  - first:
+      213: 4165358561264269725
+    second: planetTile_183
+  - first:
+      213: 709107601782638853
+    second: planetTile_184
+  - first:
+      213: -4478178158815094719
+    second: planetTile_185
+  - first:
+      213: -2914501009951510999
+    second: planetTile_186
+  - first:
+      213: 5199770230444650604
+    second: planetTile_187
+  - first:
+      213: 8278624455089308587
+    second: planetTile_188
+  - first:
+      213: -1409406856359724537
+    second: planetTile_189
+  - first:
+      213: 4437324144883668266
+    second: planetTile_190
+  - first:
+      213: -211885636749780288
+    second: planetTile_191
+  - first:
+      213: -8430201438229471662
+    second: planetTile_192
+  - first:
+      213: -7178383687737666348
+    second: planetTile_193
+  - first:
+      213: 6013421005761834685
+    second: planetTile_194
+  - first:
+      213: -8379929762096306806
+    second: planetTile_195
+  - first:
+      213: 4448416823912193607
+    second: planetTile_196
+  - first:
+      213: -2604751866156104291
+    second: planetTile_197
+  - first:
+      213: 6592213646144992639
+    second: planetTile_198
+  - first:
+      213: -5940062959603615293
+    second: planetTile_199
+  - first:
+      213: 181596715099041401
+    second: planetTile_200
+  - first:
+      213: 7004769256873882559
+    second: planetTile_201
+  - first:
+      213: -5669745488155742613
+    second: planetTile_202
+  - first:
+      213: 1504373937103346520
+    second: planetTile_203
+  - first:
+      213: 3633995550970279170
+    second: planetTile_204
+  - first:
+      213: 7721591712261287387
+    second: planetTile_205
+  - first:
+      213: -7775980529747722575
+    second: planetTile_206
+  - first:
+      213: 4032091334597086129
+    second: planetTile_207
+  - first:
+      213: 9216782465485559027
+    second: planetTile_208
+  - first:
+      213: -5292328476035270988
+    second: planetTile_209
+  - first:
+      213: -867383616236259319
+    second: planetTile_210
+  - first:
+      213: 8039804156417113681
+    second: planetTile_211
+  - first:
+      213: 6906220951138871785
+    second: planetTile_212
+  - first:
+      213: -331904570877516260
+    second: planetTile_213
+  - first:
+      213: -3063008306885568207
+    second: planetTile_214
+  - first:
+      213: 4681122827126489779
+    second: planetTile_215
+  - first:
+      213: 1714234118889097968
+    second: planetTile_216
+  - first:
+      213: -2681412551693828585
+    second: planetTile_217
+  - first:
+      213: -6379419164289917194
+    second: planetTile_218
+  - first:
+      213: 7067371654534274862
+    second: planetTile_219
+  - first:
+      213: -8587048785061532550
+    second: planetTile_220
+  - first:
+      213: -3031641637039754666
+    second: planetTile_221
+  - first:
+      213: 3506355422459440119
+    second: planetTile_222
+  - first:
+      213: 2514836153473204064
+    second: planetTile_223
+  - first:
+      213: 4551353955283041945
+    second: planetTile_224
+  - first:
+      213: 3831870569200329148
+    second: planetTile_225
+  - first:
+      213: 7225782554872212130
+    second: planetTile_226
+  - first:
+      213: 2922519353601745749
+    second: planetTile_227
+  - first:
+      213: 3199725961841042157
+    second: planetTile_228
+  - first:
+      213: -6344277072043246832
+    second: planetTile_229
+  - first:
+      213: 4442307043181629468
+    second: planetTile_230
+  - first:
+      213: 3068749752799139966
+    second: planetTile_231
+  - first:
+      213: 5307184482837640217
+    second: planetTile_232
+  - first:
+      213: 2357016403269679668
+    second: planetTile_233
+  - first:
+      213: -3595976420769514567
+    second: planetTile_234
+  - first:
+      213: 2289432769229472449
+    second: planetTile_235
+  - first:
+      213: -4128446072083636254
+    second: planetTile_236
+  - first:
+      213: -9017187738618450408
+    second: planetTile_237
+  - first:
+      213: 6977737670225609126
+    second: planetTile_238
+  - first:
+      213: 7200161452742717167
+    second: planetTile_239
+  - first:
+      213: 1759665738844308614
+    second: planetTile_240
+  - first:
+      213: -773487758619042362
+    second: planetTile_241
+  - first:
+      213: -4513620323814389041
+    second: planetTile_242
+  - first:
+      213: 5455714739394222047
+    second: planetTile_243
+  - first:
+      213: 3961736016368426088
+    second: planetTile_244
+  - first:
+      213: 5556833384764245369
+    second: planetTile_245
+  - first:
+      213: -5973480329870784346
+    second: planetTile_246
+  - first:
+      213: -4944580367301263603
+    second: planetTile_247
+  - first:
+      213: -4946567354381662429
+    second: planetTile_248
+  - first:
+      213: 1187221430564754920
+    second: planetTile_249
+  - first:
+      213: -2536514809952943517
+    second: planetTile_250
+  - first:
+      213: 2496433310395104764
+    second: planetTile_251
+  - first:
+      213: -3517661647233466925
+    second: planetTile_252
+  - first:
+      213: 3059971380893338361
+    second: planetTile_253
+  - first:
+      213: 3706900065910894943
+    second: planetTile_254
+  - first:
+      213: 853670677821074318
+    second: planetTile_255
+  - first:
+      213: -555660007134143222
+    second: planetTile_256
+  - first:
+      213: 1875244969562823195
+    second: planetTile_257
+  - first:
+      213: 8415735703480848205
+    second: planetTile_258
+  - first:
+      213: 4050245045317762806
+    second: planetTile_259
+  - first:
+      213: 6583177900786608502
+    second: planetTile_260
+  - first:
+      213: -8794169557758611740
+    second: planetTile_261
+  - first:
+      213: -5007784894783519337
+    second: planetTile_262
+  - first:
+      213: -8001402624136162537
+    second: planetTile_263
+  - first:
+      213: -2994850759793402197
+    second: planetTile_264
+  - first:
+      213: 5333386788200397140
+    second: planetTile_265
+  - first:
+      213: 8937516013844545269
+    second: planetTile_266
+  - first:
+      213: -9131397790323087530
+    second: planetTile_267
+  - first:
+      213: 6841380958690681250
+    second: planetTile_268
+  - first:
+      213: 4899966455633999783
+    second: planetTile_269
+  - first:
+      213: -371844253282822072
+    second: planetTile_270
+  - first:
+      213: 3773972040572150546
+    second: planetTile_271
+  - first:
+      213: 159317843435261327
+    second: planetTile_272
+  - first:
+      213: -5877691971233650406
+    second: planetTile_273
+  - first:
+      213: -2978369503117619779
+    second: planetTile_274
+  - first:
+      213: -6028676712776096692
+    second: planetTile_275
+  - first:
+      213: -8847619662052963925
+    second: planetTile_276
+  - first:
+      213: 674307633387347248
+    second: planetTile_277
+  - first:
+      213: 6586839850662706877
+    second: planetTile_278
+  - first:
+      213: -6191525602247935134
+    second: planetTile_279
+  - first:
+      213: 3795304812088755050
+    second: planetTile_280
+  - first:
+      213: 59036147398106138
+    second: planetTile_281
+  - first:
+      213: 7209018607941283914
+    second: planetTile_282
+  - first:
+      213: 146116563135142004
+    second: planetTile_283
+  - first:
+      213: -1724129568729061315
+    second: planetTile_284
+  - first:
+      213: 2097014448072864439
+    second: planetTile_285
+  - first:
+      213: -4813502716155036517
+    second: planetTile_286
+  - first:
+      213: -2631620754520373349
+    second: planetTile_287
+  - first:
+      213: 3704263613950579146
+    second: planetTile_288
+  - first:
+      213: -7587469185681147362
+    second: planetTile_289
+  - first:
+      213: -5508987947035822582
+    second: planetTile_290
+  - first:
+      213: -7732710466381217983
+    second: planetTile_291
+  - first:
+      213: -7723555175426628397
+    second: planetTile_292
+  - first:
+      213: -5827465448692998893
+    second: planetTile_293
+  - first:
+      213: 4062503530588266297
+    second: planetTile_294
+  - first:
+      213: 2528384544202867462
+    second: planetTile_295
+  - first:
+      213: -4807740502035894391
+    second: planetTile_296
+  - first:
+      213: -3946800718205082262
+    second: planetTile_297
+  - first:
+      213: 2783112748836383158
+    second: planetTile_298
+  - first:
+      213: 7518661899027533962
+    second: planetTile_299
+  - first:
+      213: 7666301215884130181
+    second: planetTile_300
+  - first:
+      213: 5392265164076016914
+    second: planetTile_301
+  - first:
+      213: -1545104079636330635
+    second: planetTile_302
+  - first:
+      213: 7437186602109947036
+    second: planetTile_303
+  - first:
+      213: -6364928125187795096
+    second: planetTile_304
+  - first:
+      213: -2422027179642158520
+    second: planetTile_305
+  - first:
+      213: -6296272761250565400
+    second: planetTile_306
+  - first:
+      213: 7496300092019631510
+    second: planetTile_307
+  - first:
+      213: -5815689105156487052
+    second: planetTile_308
+  - first:
+      213: 1678608554462241421
+    second: planetTile_309
+  - first:
+      213: -2684368899257224683
+    second: planetTile_310
+  - first:
+      213: 4286488927525409481
+    second: planetTile_311
+  - first:
+      213: 4323230637792058876
+    second: planetTile_312
+  - first:
+      213: -2049281504714839853
+    second: planetTile_313
+  - first:
+      213: 4627873457708717155
+    second: planetTile_314
+  - first:
+      213: -2249516152965525172
+    second: planetTile_315
+  - first:
+      213: 6136504143950735314
+    second: planetTile_316
+  - first:
+      213: -1406779432490348473
+    second: planetTile_317
+  - first:
+      213: -1410731527457194836
+    second: planetTile_318
+  - first:
+      213: -3385616888098341188
+    second: planetTile_319
+  - first:
+      213: 7252838893385188364
+    second: planetTile_320
+  - first:
+      213: 8333687477095325004
+    second: planetTile_321
+  - first:
+      213: 6119205269997798793
+    second: planetTile_322
+  - first:
+      213: 4498954709704896357
+    second: planetTile_323
+  - first:
+      213: 7324239330388809022
+    second: planetTile_324
+  - first:
+      213: 4612941023120226408
+    second: planetTile_325
+  - first:
+      213: 962872634118736168
+    second: planetTile_326
+  - first:
+      213: -93386279822683671
+    second: planetTile_327
+  - first:
+      213: 8601034526144557034
+    second: planetTile_328
+  - first:
+      213: 5527629936765097067
+    second: planetTile_329
+  - first:
+      213: 7910492674429836067
+    second: planetTile_330
+  - first:
+      213: -4774409566294570997
+    second: planetTile_331
+  - first:
+      213: 5921781096612541934
+    second: planetTile_332
+  - first:
+      213: -4672483971117665622
+    second: planetTile_333
+  - first:
+      213: 4326067783384410688
+    second: planetTile_334
+  - first:
+      213: 2663943883165669912
+    second: planetTile_335
+  - first:
+      213: 6667482459711090430
+    second: planetTile_336
+  - first:
+      213: 7634487922102812025
+    second: planetTile_337
+  - first:
+      213: -4277391222278878844
+    second: planetTile_338
+  - first:
+      213: 2283726574237436304
+    second: planetTile_339
+  - first:
+      213: -4566552446438907
+    second: planetTile_340
+  - first:
+      213: -1365208473532627482
+    second: planetTile_341
+  - first:
+      213: -8160217069279129638
+    second: planetTile_342
+  - first:
+      213: 6727833395843054131
+    second: planetTile_343
+  - first:
+      213: -5024297089566348993
+    second: planetTile_344
+  - first:
+      213: -1315636446626558407
+    second: planetTile_345
+  - first:
+      213: -8603236050456367360
+    second: planetTile_346
+  - first:
+      213: 8060724565778504613
+    second: planetTile_347
+  - first:
+      213: 173815634190321483
+    second: planetTile_348
+  - first:
+      213: 8858503818638921577
+    second: planetTile_349
+  - first:
+      213: -272925922580129900
+    second: planetTile_350
+  - first:
+      213: 3983901279642096794
+    second: planetTile_351
+  - first:
+      213: 6303676415137111905
+    second: planetTile_352
+  - first:
+      213: -4507524537473741110
+    second: planetTile_353
+  - first:
+      213: -1246694416610752908
+    second: planetTile_354
+  - first:
+      213: 8656146779447678038
+    second: planetTile_355
+  - first:
+      213: 8561218686621335552
+    second: planetTile_356
+  - first:
+      213: 5683171646446564634
+    second: planetTile_357
+  - first:
+      213: -954096187359190303
+    second: planetTile_358
+  - first:
+      213: 1696500701350616259
+    second: planetTile_359
+  - first:
+      213: -3790294189142034027
+    second: planetTile_360
+  - first:
+      213: -3374853211207643326
+    second: planetTile_361
+  - first:
+      213: 7457871905058724765
+    second: planetTile_362
+  - first:
+      213: 8487639389739942946
+    second: planetTile_363
+  - first:
+      213: 6256572369488040499
+    second: planetTile_364
+  - first:
+      213: 7200257632127026427
+    second: planetTile_365
+  - first:
+      213: 5092036313252543919
+    second: planetTile_366
+  - first:
+      213: -4569565101784931363
+    second: planetTile_367
+  - first:
+      213: -8822258591067013536
+    second: planetTile_368
+  - first:
+      213: 148570345787209781
+    second: planetTile_369
+  - first:
+      213: 8350691192410369134
+    second: planetTile_370
+  - first:
+      213: -4511707489640379312
+    second: planetTile_371
+  - first:
+      213: 2110744431431493323
+    second: planetTile_372
+  - first:
+      213: -5502646985029838897
+    second: planetTile_373
+  - first:
+      213: -6125020897128602159
+    second: planetTile_374
+  - first:
+      213: 2083662907454006653
+    second: planetTile_375
+  - first:
+      213: 8518943877896399269
+    second: planetTile_376
+  - first:
+      213: -2785977356420435720
+    second: planetTile_377
+  - first:
+      213: -8125562735011777934
+    second: planetTile_378
+  - first:
+      213: -2215943169649036301
+    second: planetTile_379
+  - first:
+      213: 1346883144413808153
+    second: planetTile_380
+  - first:
+      213: -7163151458330134127
+    second: planetTile_381
+  - first:
+      213: 2196367183130015018
+    second: planetTile_382
+  - first:
+      213: -9074301373611643029
+    second: planetTile_383
+  - first:
+      213: 5569704203907501378
+    second: planetTile_384
+  - first:
+      213: -331427671267997828
+    second: planetTile_385
+  - first:
+      213: -2747757395987032584
+    second: planetTile_386
+  - first:
+      213: 8171140704663720543
+    second: planetTile_387
+  - first:
+      213: 3364811944282028890
+    second: planetTile_388
+  - first:
+      213: -7109239223130763499
+    second: planetTile_389
+  - first:
+      213: 4198903237374849425
+    second: planetTile_390
+  - first:
+      213: 8091771998112152370
+    second: planetTile_391
+  - first:
+      213: 2956068827367468815
+    second: planetTile_392
+  - first:
+      213: -7358497036150407850
+    second: planetTile_393
+  - first:
+      213: 2116573965546239528
+    second: planetTile_394
+  - first:
+      213: 6037768514756767650
+    second: planetTile_395
+  - first:
+      213: -712912153466852337
+    second: planetTile_396
+  - first:
+      213: 8452293433934592657
+    second: planetTile_397
+  - first:
+      213: 2791975999815740095
+    second: planetTile_398
+  - first:
+      213: 5912937633609488292
+    second: planetTile_399
+  - first:
+      213: 3439154124656177467
+    second: planetTile_400
+  - first:
+      213: -4046893807015324136
+    second: planetTile_401
+  - first:
+      213: -9143774758252934858
+    second: planetTile_402
+  - first:
+      213: -4687633700395801885
+    second: planetTile_403
+  - first:
+      213: 4792342489439233979
+    second: planetTile_404
+  - first:
+      213: 8650552102206289386
+    second: planetTile_405
+  - first:
+      213: -6207871882197980784
+    second: planetTile_406
+  - first:
+      213: 1956329471290494085
+    second: planetTile_407
+  - first:
+      213: -2487579243718187360
+    second: planetTile_408
+  - first:
+      213: -1246553758859063160
+    second: planetTile_409
+  - first:
+      213: 4982055734768288711
+    second: planetTile_410
+  - first:
+      213: -3510862834199130628
+    second: planetTile_411
+  - first:
+      213: 1269367785181190005
+    second: planetTile_412
+  - first:
+      213: -1734288626522985677
+    second: planetTile_413
+  - first:
+      213: 8731862437507542754
+    second: planetTile_414
+  - first:
+      213: 925386859851309146
+    second: planetTile_415
+  - first:
+      213: -6063040390520786188
+    second: planetTile_416
+  - first:
+      213: -8906455725818620536
+    second: planetTile_417
+  - first:
+      213: -2554055316815214297
+    second: planetTile_418
+  - first:
+      213: -6038985465935767772
+    second: planetTile_419
+  - first:
+      213: -6612251169149818745
+    second: planetTile_420
+  - first:
+      213: 4393579559082829326
+    second: planetTile_421
+  - first:
+      213: 6561107859732801148
+    second: planetTile_422
+  - first:
+      213: 4486834237137680849
+    second: planetTile_423
+  - first:
+      213: 4233233596984091723
+    second: planetTile_424
+  - first:
+      213: 2028507753316240031
+    second: planetTile_425
+  - first:
+      213: 917221453624306445
+    second: planetTile_426
+  - first:
+      213: 983158115485615019
+    second: planetTile_427
+  - first:
+      213: -4051510586878539487
+    second: planetTile_428
+  - first:
+      213: -2644941857798648367
+    second: planetTile_429
+  - first:
+      213: -123562370747436076
+    second: planetTile_430
+  - first:
+      213: -6989503555329398714
+    second: planetTile_431
+  - first:
+      213: -3896115049809277086
+    second: planetTile_432
+  - first:
+      213: -7680646591013976958
+    second: planetTile_433
+  - first:
+      213: 5844853521105172294
+    second: planetTile_434
+  - first:
+      213: -2245700707294922734
+    second: planetTile_435
+  - first:
+      213: 8149676997056925334
+    second: planetTile_436
+  - first:
+      213: -7993454054893101112
+    second: planetTile_437
+  - first:
+      213: -6638962148047406414
+    second: planetTile_438
+  - first:
+      213: -8021302967713800799
+    second: planetTile_439
+  - first:
+      213: -120121966532088991
+    second: planetTile_440
+  - first:
+      213: 2827024664704068733
+    second: planetTile_441
+  - first:
+      213: -4845447995028519786
+    second: planetTile_442
+  - first:
+      213: -8991976946793248298
+    second: planetTile_443
+  - first:
+      213: 2273549550660104524
+    second: planetTile_444
+  - first:
+      213: 3163777672852832232
+    second: planetTile_445
+  - first:
+      213: -6674814963512657502
+    second: planetTile_446
+  - first:
+      213: -4168833521516494066
+    second: planetTile_447
+  - first:
+      213: 6848327712763670973
+    second: planetTile_448
+  - first:
+      213: 3046662944480745069
+    second: planetTile_449
+  - first:
+      213: -8073802402409035782
+    second: planetTile_450
+  - first:
+      213: -5828683142241441970
+    second: planetTile_451
+  - first:
+      213: 5249561687878654856
+    second: planetTile_452
+  - first:
+      213: -7742993768641382810
+    second: planetTile_453
+  - first:
+      213: 4997397213056464689
+    second: planetTile_454
+  - first:
+      213: -7258147863803197039
+    second: planetTile_455
+  - first:
+      213: 1537845741462846054
+    second: planetTile_456
+  - first:
+      213: 5563227811592686460
+    second: planetTile_457
+  - first:
+      213: 3389371852958672820
+    second: planetTile_458
+  - first:
+      213: -3967763070794031972
+    second: planetTile_459
+  - first:
+      213: -169738878832058536
+    second: planetTile_460
+  - first:
+      213: -8104216452466836418
+    second: planetTile_461
+  - first:
+      213: -809293981211832478
+    second: planetTile_462
+  - first:
+      213: 2338851109034649157
+    second: planetTile_463
+  - first:
+      213: -2175873332370471463
+    second: planetTile_464
+  - first:
+      213: -8478907651070631067
+    second: planetTile_465
+  - first:
+      213: 5279671533213819053
+    second: planetTile_466
+  - first:
+      213: 8901951651264608102
+    second: planetTile_467
+  - first:
+      213: 4442564768872651715
+    second: planetTile_468
+  - first:
+      213: -6186467223543153140
+    second: planetTile_469
+  - first:
+      213: -4771715706609555574
+    second: planetTile_470
+  - first:
+      213: -3970789367805556844
+    second: planetTile_471
+  - first:
+      213: 1020185300120694932
+    second: planetTile_472
+  - first:
+      213: 6173595986647827050
+    second: planetTile_473
+  - first:
+      213: 140758995794283254
+    second: planetTile_474
+  - first:
+      213: -8190054368356676776
+    second: planetTile_475
+  - first:
+      213: -909420706374319371
+    second: planetTile_476
+  - first:
+      213: -148222446416273431
+    second: planetTile_477
+  - first:
+      213: -8993852451986912654
+    second: planetTile_478
+  - first:
+      213: 7852954857750892134
+    second: planetTile_479
+  - first:
+      213: -1860694433807357082
+    second: planetTile_480
+  - first:
+      213: -9156565754767535232
+    second: planetTile_481
+  - first:
+      213: 266937881639268122
+    second: planetTile_482
+  - first:
+      213: -4069709156842586413
+    second: planetTile_483
+  - first:
+      213: -4300710939936048933
+    second: planetTile_484
+  - first:
+      213: -7541719615607777693
+    second: planetTile_485
+  - first:
+      213: -2979609304146955369
+    second: planetTile_486
+  - first:
+      213: 6827308872115619851
+    second: planetTile_487
+  - first:
+      213: -1619759579028465703
+    second: planetTile_488
+  - first:
+      213: -1616869368058039247
+    second: planetTile_489
+  - first:
+      213: -2432217582356249036
+    second: planetTile_490
+  - first:
+      213: -9072252229107780004
+    second: planetTile_491
+  - first:
+      213: -2609027164888539606
+    second: planetTile_492
+  - first:
+      213: 6576588002574225186
+    second: planetTile_493
+  - first:
+      213: -4040957254008817683
+    second: planetTile_494
+  - first:
+      213: -6688014836796042333
+    second: planetTile_495
+  - first:
+      213: -1701457875674835053
+    second: planetTile_496
+  - first:
+      213: -3468849657830337763
+    second: planetTile_497
+  - first:
+      213: -7770652411086950078
+    second: planetTile_498
+  - first:
+      213: -1312413308217038480
+    second: planetTile_499
+  - first:
+      213: 7815517413032891180
+    second: planetTile_500
+  - first:
+      213: -1282492278851214803
+    second: planetTile_501
+  - first:
+      213: -4150882887091454443
+    second: planetTile_502
+  - first:
+      213: 4702581725853623987
+    second: planetTile_503
+  - first:
+      213: -8436591118964313573
+    second: planetTile_504
+  - first:
+      213: 2365644577670420171
+    second: planetTile_505
+  - first:
+      213: -7567040263704810604
+    second: planetTile_506
+  - first:
+      213: 6492378683250836018
+    second: planetTile_507
+  - first:
+      213: -2755784825564958496
+    second: planetTile_508
+  - first:
+      213: 3023125083082202041
+    second: planetTile_509
+  - first:
+      213: -9052831215336025519
+    second: planetTile_510
+  - first:
+      213: -8910677914669587045
+    second: planetTile_511
+  - first:
+      213: 5544048584051508227
+    second: planetTile_512
+  - first:
+      213: -6687315802935097165
+    second: planetTile_513
+  - first:
+      213: 8062092758366210522
+    second: planetTile_514
+  - first:
+      213: 172585710010910391
+    second: planetTile_515
+  - first:
+      213: -1064991372826119542
+    second: planetTile_516
+  - first:
+      213: -6368449800477694610
+    second: planetTile_517
+  - first:
+      213: -1715037604146093898
+    second: planetTile_518
+  - first:
+      213: 2399511335158701381
+    second: planetTile_519
+  - first:
+      213: 3302435643412012453
+    second: planetTile_520
+  - first:
+      213: -1772897518347731323
+    second: planetTile_521
+  - first:
+      213: 208379738461305113
+    second: planetTile_522
+  - first:
+      213: 8076673970570343807
+    second: planetTile_523
+  - first:
+      213: 5659312558936573332
+    second: planetTile_524
+  - first:
+      213: -3311525628699214960
+    second: planetTile_525
+  - first:
+      213: 5686969216805587070
+    second: planetTile_526
+  - first:
+      213: -8549198535437667182
+    second: planetTile_527
+  - first:
+      213: 9142109571113084814
+    second: planetTile_528
+  - first:
+      213: -7550379849504734828
+    second: planetTile_529
+  - first:
+      213: 8055572566362817040
+    second: planetTile_530
+  - first:
+      213: -7129867412537400874
+    second: planetTile_531
+  - first:
+      213: 1311326718918455289
+    second: planetTile_532
+  - first:
+      213: 273670875940358853
+    second: planetTile_533
+  - first:
+      213: -3353964489733423903
+    second: planetTile_534
+  - first:
+      213: 8848524966801134713
+    second: planetTile_535
+  - first:
+      213: -1730397818460562960
+    second: planetTile_536
+  - first:
+      213: 6272007269315953622
+    second: planetTile_537
+  - first:
+      213: 4330962670881425351
+    second: planetTile_538
+  - first:
+      213: 2126704654033910564
+    second: planetTile_539
+  - first:
+      213: -5132446853318390793
+    second: planetTile_540
+  - first:
+      213: 712977430583952659
+    second: planetTile_541
+  - first:
+      213: 3153848905113117788
+    second: planetTile_542
+  - first:
+      213: 3610555535648339295
+    second: planetTile_543
+  - first:
+      213: 2928805843337196640
+    second: planetTile_544
+  - first:
+      213: -803640650403794578
+    second: planetTile_545
+  - first:
+      213: 6525819281245160353
+    second: planetTile_546
+  - first:
+      213: 4952427230157011444
+    second: planetTile_547
+  - first:
+      213: -2994373559400835938
+    second: planetTile_548
+  - first:
+      213: -2545963745829525515
+    second: planetTile_549
+  - first:
+      213: 6241332236797735786
+    second: planetTile_550
+  - first:
+      213: -5300354727118168417
+    second: planetTile_551
+  - first:
+      213: -8886219844319253164
+    second: planetTile_552
+  - first:
+      213: 6519467807312729725
+    second: planetTile_553
+  - first:
+      213: 1530424010341041510
+    second: planetTile_554
+  - first:
+      213: -8488842082040780071
+    second: planetTile_555
+  - first:
+      213: -2348114074392626529
+    second: planetTile_556
+  - first:
+      213: -7182503727983519909
+    second: planetTile_557
+  - first:
+      213: -7693468241300509453
+    second: planetTile_558
+  - first:
+      213: 4028912250738472776
+    second: planetTile_559
+  - first:
+      213: 8322390846839849525
+    second: planetTile_560
+  - first:
+      213: -1128263654586880268
+    second: planetTile_561
+  - first:
+      213: 6063058432121702568
+    second: planetTile_562
+  - first:
+      213: 243639821609618190
+    second: planetTile_563
+  - first:
+      213: 8296648445401125762
+    second: planetTile_564
+  - first:
+      213: 5878070095259282146
+    second: planetTile_565
+  - first:
+      213: 5153391568490778746
+    second: planetTile_566
+  - first:
+      213: -7995734372930768884
+    second: planetTile_567
+  - first:
+      213: -2031101244885658342
+    second: planetTile_568
+  - first:
+      213: -7142491982613705738
+    second: planetTile_569
+  - first:
+      213: 8644880560469732207
+    second: planetTile_570
+  - first:
+      213: 6668908996071209031
+    second: planetTile_571
+  - first:
+      213: -3629219010123008828
+    second: planetTile_572
+  - first:
+      213: -3324098259930669006
+    second: planetTile_573
+  - first:
+      213: -2799794401265324491
+    second: planetTile_574
+  - first:
+      213: 1988148981894856690
+    second: planetTile_575
+  - first:
+      213: -6264820157621902877
+    second: planetTile_576
+  - first:
+      213: -6940667690734208410
+    second: planetTile_577
+  - first:
+      213: -7422268450274688950
+    second: planetTile_578
+  - first:
+      213: -3117378349302938497
+    second: planetTile_579
+  - first:
+      213: -7158610989493224687
+    second: planetTile_580
+  - first:
+      213: -6476088246661500734
+    second: planetTile_581
+  - first:
+      213: 3773667650948307668
+    second: planetTile_582
+  - first:
+      213: 7521268161589211799
+    second: planetTile_583
+  - first:
+      213: 7048042815078839554
+    second: planetTile_584
+  - first:
+      213: -2757886908278293628
+    second: planetTile_585
+  - first:
+      213: -4988771083135191306
+    second: planetTile_586
+  - first:
+      213: 8729888290147611263
+    second: planetTile_587
+  - first:
+      213: -1821164130426633162
+    second: planetTile_588
+  - first:
+      213: 262346714225594739
+    second: planetTile_589
+  - first:
+      213: -3069046693940835290
+    second: planetTile_590
+  - first:
+      213: -5796212609502688175
+    second: planetTile_591
+  - first:
+      213: -4501902398521600566
+    second: planetTile_592
+  - first:
+      213: -2322975595189476467
+    second: planetTile_593
+  - first:
+      213: -4446382632015247741
+    second: planetTile_594
+  - first:
+      213: -2861801737163261813
+    second: planetTile_595
+  - first:
+      213: 1194471615107090927
+    second: planetTile_596
+  - first:
+      213: -6466642239355399075
+    second: planetTile_597
+  - first:
+      213: -6095937263917657410
+    second: planetTile_598
+  - first:
+      213: 6295674873948638215
+    second: planetTile_599
+  - first:
+      213: -8510550081810112103
+    second: planetTile_600
+  - first:
+      213: -4152921898212925476
+    second: planetTile_601
+  - first:
+      213: 7537863084329926370
+    second: planetTile_602
+  - first:
+      213: -7569258649063913259
+    second: planetTile_603
+  - first:
+      213: 7736326007507973716
+    second: planetTile_604
+  - first:
+      213: 3075056836888647363
+    second: planetTile_605
+  - first:
+      213: -8249226106865652703
+    second: planetTile_606
+  - first:
+      213: 3168362336436156675
+    second: planetTile_607
+  - first:
+      213: -6774735605984711185
+    second: planetTile_608
+  - first:
+      213: -6983437883331578441
+    second: planetTile_609
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 88
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: planetTile_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3056
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c153de0b309e1ad50800000000000000
+      internalID: 6746929918840223004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2946
+        width: 146
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300adc62e4f32a5f0800000000000000
+      internalID: -746964983299071997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3010
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6c5dc2856f50b0800000000000000
+      internalID: -5737755787781182594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3056
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e4b2d3564bcc1a0800000000000000
+      internalID: -6787852191443235224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3052
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ce87787ec4e8920800000000000000
+      internalID: 2994415359541963796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3028
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c58ace8d9e5b49b0800000000000000
+      internalID: -5094874522641070655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3042
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3679268c4f5f30800000000000000
+      internalID: 4566452686281915408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_7
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3038
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c800d7bd95ebcf7d0800000000000000
+      internalID: -2883220368280190836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_8
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2896
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88d9d407fb876cc0800000000000000
+      internalID: -3717849074316486513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_9
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2896
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea5f66595576380800000000000000
+      internalID: -8978113231973929420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_10
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2900
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb3096c1888d1e50800000000000000
+      internalID: 6781726704853335030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_11
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 2890
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb5ad611bc0b0350800000000000000
+      internalID: 5983890484623989710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_12
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 2890
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2d754f68d15f100800000000000000
+      internalID: 141051428794258109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_13
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2896
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e867484584be70800000000000000
+      internalID: 9130068890069033630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_14
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 2900
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e975784b65e4730800000000000000
+      internalID: 3985218053634236060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_15
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2896
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f60363f20cc6b1b0800000000000000
+      internalID: -5641097170189613324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_16
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2890
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be37735a265e3f00800000000000000
+      internalID: 1098410098913918643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_17
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2890
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3741a1e85c045b7f0800000000000000
+      internalID: -597500158319913869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_18
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 2890
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d10f998e4e4cc70800000000000000
+      internalID: 8990562443804548496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_19
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 2890
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddd1ee14539f1020800000000000000
+      internalID: 2314730722996379095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_20
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 2890
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d8eaf5d6c7ac0b0800000000000000
+      internalID: -5707612768540127842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2934
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8021404495f710f0800000000000000
+      internalID: -1146177563060526966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2956
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37aec98d70d0ce0800000000000000
+      internalID: -1437484079134379063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2930
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc33441c3475d5d80800000000000000
+      internalID: -8260350193010723889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_24
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2996
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1cc0bcb6b6125a0800000000000000
+      internalID: -6547834272507706966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_25
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3008
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cfb6dbc35543f90800000000000000
+      internalID: -6974856203525686256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2996
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02afe3100d92affc0800000000000000
+      internalID: -3460407390329964000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2940
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fd552328e69e3a0800000000000000
+      internalID: -6635651070484422781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_28
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2944
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e27b510bce20ea0800000000000000
+      internalID: -5907899520133943743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_29
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2954
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692b83d3a94fb0d70800000000000000
+      internalID: 9010564422774076054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2650
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7281c3f22a95bf80800000000000000
+      internalID: -8091391680592117122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2650
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ea0ea3a481aa170800000000000000
+      internalID: 8190385579421118026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2650
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee604c2cd1f090370800000000000000
+      internalID: 8289173209648203502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_33
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2650
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a109f672ea82b0800000000000000
+      internalID: -5581399787560655908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_34
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2650
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf44d35516708ad0800000000000000
+      internalID: -2702029942449483825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_35
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2650
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754ff5e17dcf1be0800000000000000
+      internalID: -1504257861444745866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_36
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2650
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936214a9a264dcd0800000000000000
+      internalID: -2534292209561082985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_37
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 2650
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70646ef1374c61c0800000000000000
+      internalID: -4509150846857748357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_38
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 2650
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513d0efc96b620b60800000000000000
+      internalID: 7710843614215066389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_39
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2650
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4555313e3389df0800000000000000
+      internalID: -173331535278811908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_40
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 2650
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2f3d5344ad03ba0800000000000000
+      internalID: -6111144707846049025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_41
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2650
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dee5aea10a0af600800000000000000
+      internalID: 502725310746586832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_42
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2650
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c107148656dcd40800000000000000
+      internalID: 5606248609595006085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_43
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2650
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a0bb66f79e4700800000000000000
+      internalID: 526525291073414358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_44
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 2650
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f9f4e0a9a179890800000000000000
+      internalID: -7451457809493811417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_45
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2662
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf74de7da5f1f140800000000000000
+      internalID: 4751849207358586795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_46
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 2646
+        width: 186
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c16dcb8c1ea5ef0800000000000000
+      internalID: -118534187894039543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2414
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd9ed4e647a31d20800000000000000
+      internalID: 3248123679193603578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2400
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc640572ef840aaf0800000000000000
+      internalID: -387229311535397169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2392
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf8961b535425270800000000000000
+      internalID: 8237722765326127018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_50
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2392
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cf9eff888be2120800000000000000
+      internalID: 2391051350728899666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_51
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2396
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5ec3db3702de7a0800000000000000
+      internalID: -6346380618426948133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_52
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2396
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dfa6f267c603dc0800000000000000
+      internalID: -3661307242194731665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_53
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2396
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc8edc6505ba1c0800000000000000
+      internalID: -4491407869619942554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_54
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2392
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4e68eefdbbbd00800000000000000
+      internalID: 989593445656841091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_55
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2392
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555c465562730c70800000000000000
+      internalID: 8936111865198302548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_56
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2392
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17940e64d07ef060800000000000000
+      internalID: 6989147729406760731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_57
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2392
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39725aad8a188de10800000000000000
+      internalID: 2222668978330085267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_58
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 2392
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3fd46ec6c790c60800000000000000
+      internalID: 7784890238048793508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_59
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2392
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2037a84e9608720800000000000000
+      internalID: 2846391394794406603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_60
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 2392
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe413d91db1f600800000000000000
+      internalID: 500388952228032345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_61
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 2436
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e78915d8c34d2250800000000000000
+      internalID: 5921463614909810660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_62
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2464
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d2e2d3b78d7a40800000000000000
+      internalID: 5367595537302476708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_63
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2392
+        width: 172
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e80536c45f62180800000000000000
+      internalID: -9140348685269299642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planetTile_64
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 2317
+        width: 297
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7801aa833c5709e60800000000000000
+      internalID: 7966997222148149383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
